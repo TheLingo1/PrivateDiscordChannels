@@ -1,0 +1,12 @@
+{
+	"name": "Private Channels Bot",
+	"version": "0.1",
+	"description": "Bot that makes private discord channels and then deletes them",
+	"main": "index.js",
+	"dependencies": {
+		"discord.js": "^13.6.0",
+		"@discordjs/builders": "^0.13.0",
+		"@discordjs/rest": "^0.4.1",
+		"discord-api-types": "^0.32.1"
+	}
+}
